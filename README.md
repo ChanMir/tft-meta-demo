@@ -1,6 +1,6 @@
 # Demo Spring Boot App
 
-## Run locally (requires Java 17+ and Gradle)
+## Run locally (requires Java 21+ and Gradle)
 
 Build:
 
